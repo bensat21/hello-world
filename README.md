@@ -7,7 +7,7 @@ Greetings fellow coders! My name is Bentzy and I'm excited to share my first Git
 
 ## What's in this repository?
 
-Inside this repository, you'll find a single file: `hello.py`. This is a Python program that prints the classic "Hello World!" message to the console.
+This repository contains a single file named hello.py. It is a Python program that displays a customary "Hello World!" message on the console. However, in this program, the word "World" is replaced with the user's name.
 
 ## How to use this repository
 
@@ -16,4 +16,4 @@ If you want to run the `hello.py` program yourself, all you need is Python 3 ins
 1. Clone this repository to your local machine.
 2. Open a terminal window and navigate to the directory where you cloned the repository.
 3. Type `python3 hello.py` and press enter.
-4. You should see the "hello, world!" message printed to the console.
+4. You will be promted to input your name and then see the "hello, {your_name}!" message printed to the console.
